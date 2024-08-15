@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-shadow:none;
+}
+#signupimg{
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  #signupbtn{
+    background-color: #4682b4;
+    color: white;
+  }
+  #inputdiv{
+    opacity: 0.95;
+    transition: 0.5s;
+  }
+  #inputdiv:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+  }
+  #signupbtn:hover{
+    background-color: #4682b4;
+    color: white;
+  }
+
+  

@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-shadow:none;
+}
+#loginimg{
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#loginmodal1btn{
+  background-color: #00ACC1;
+  color: white;
+}
+#closebtn1{
+  background-color: #00ACC1;
+  color: white;
+}
+#loginbtn{
+  background-color: #00ACC1;
+  color: white;
+}
+
+#inputdiv{
+  opacity: 0.95;
+  transition: 0.5s;
+}
+#inputdiv:hover{
+  transform: translateY(-10px);
+  transition: 0.5s;
+}
+#loginbtn:hover{
+  background-color: #00ACC1;
+  color: white;
+}
+#videodiv{
+  --bs-gutter-x: 0;
+  --bs-gutter-y: 0;
+}

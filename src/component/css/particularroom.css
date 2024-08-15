@@ -1,0 +1,52 @@
+#singleroom1:hover,#singleroom2:hover,#singleroom3:hover{
+    filter: drop-shadow(0 50px 20px #0009);
+    transform: translateY(-10px);
+}
+#singleroom1,#singleroom2,#singleroom3{
+    transition: 1s;
+}
+#singleroomimg1:hover,#singleroomimg2:hover,#singleroomimg3:hover{
+    transform: scale(1.5);
+}
+#singleroomimg1,#singleroomimg2,#singleroomimg3{
+    transition: 0.5s;
+}
+#doubleroom1:hover,#doubleroom2:hover,#doubleroom3:hover{
+    filter: drop-shadow(0 50px 20px #0009);
+    transform: translateY(-10px);
+}
+#doubleroom1,#doubleroom2,#doubleroom3{
+    transition: 1s;
+}
+#doubleroomimg1:hover,#doubleroomimg2:hover,#doubleroomimg3:hover{
+    transform: scale(1.5);
+}
+#doubleroomimg1,#doubleroomimg2,#doubleroomimg3{
+    transition: 0.5s;
+}
+#kingroom1:hover,#kingroom2:hover{
+    filter: drop-shadow(0 50px 20px #0009);
+    transform: translateY(-10px);
+}
+#kingroom1,#kingroom2{
+    transition: 1s;
+}
+#kingroomimg1:hover,#kingroomimg2:hover{
+    transform: scale(1.5);
+}
+#kingroomimg1,#kingroomimg2{
+    transition: 0.5s;
+}
+#queenroom1:hover,#queenroom2:hover{
+    filter: drop-shadow(0 50px 20px #0009);
+    transform: translateY(-10px);
+}
+#queenroom1,#queenroom2{
+    transition: 1s;
+}
+#queenroomimg1:hover,#queenroomimg2:hover{
+    transform: scale(1.5);
+}
+#queenroomimg1,#queenroomimg2{
+    transition: 0.5s;
+}

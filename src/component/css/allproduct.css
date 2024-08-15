@@ -1,0 +1,16 @@
+.allroom:hover {
+    filter: drop-shadow(0 50px 20px #0009);
+    transform: translateY(-10px);
+}
+
+.allroom {
+    transition: 1s;
+}
+
+.allroomimg:hover {
+    transform: scale(1.5);
+}
+
+.allroomimg {
+    transition: 0.5s;
+}

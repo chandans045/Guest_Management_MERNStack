@@ -1,0 +1,12 @@
+@media (max-width: 767.98px) { .border-sm-start-none { border-left: none !important; } }
+#roomsec1:hover,#roomsec2:hover,#roomsec3:hover{
+    filter: drop-shadow(0 50px 20px #0009);
+    transform: translateY(-10px);
+}
+#roomsec1,#roomsec2,#roomsec3{
+    transition: 1s;
+}
+#roomsecimg1,#roomsecimg2,#roomsecimg3{
+    transition: 1s 
+}
+#roomsecimg1:hover,#roomsecimg2:hover,#roomsecimg3:hover{transform: scale(1.5);}
